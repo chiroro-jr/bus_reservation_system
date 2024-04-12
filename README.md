@@ -54,6 +54,18 @@ CREATE TABLE
 DROP TABLE tmp;
 ```
 
+This should give the output below if the table was dropped:
+
+```bash
+DROP TABLE
+```
+
+9. Disconnect from the database:
+
+```bash
+\q
+```
+
 # Setting up the application
 
 1. Make sure you have NodeJS installed
