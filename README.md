@@ -71,7 +71,7 @@ v21.7.2
 2. Clone the application repository
 
 ```bash
-    git clone repo
+git clone https://github.com/chiroro-jr/bus_reservation_system.git
 ```
 
 3. Open the directory in VS Code
