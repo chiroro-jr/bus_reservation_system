@@ -6,6 +6,9 @@
 psql -U postgres
 ```
 
+> **Note**
+> If the `psql` command (the CLI for PostgreSQL) is not working in CMD or Powershell, follow [this guide](https://www.commandprompt.com/education/how-to-fix-psql-command-not-found-error-in-postgresql/) to fix the problem or search on YouTube.
+
 2. Create the app database
 
 ```sql
