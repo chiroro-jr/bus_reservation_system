@@ -121,6 +121,8 @@ psql -U zvinoreva zvinoreva_bus_reservation
 - Copy the SQL code in `migrations/0001_insert_trips.sql` and paste into the terminal to insert trips into the `trips` table.
 - Copy the SQL code in `migrations/0001_insert_roles.sql` and paste into the terminal to insert roles into the `roles` table.
 
+8. Exit the `psql` with `\q`
+
 # Running the application
 
 1. Build the application
