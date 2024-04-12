@@ -77,6 +77,9 @@ DROP TABLE
 node --version
 ```
 
+> **Note**
+> You can install the latest version of NodeJS by visiting [this link](https://nodejs.org/en/download). Try to match the version shown below for consistency.
+
 This should give an output like:
 
 ```bash
