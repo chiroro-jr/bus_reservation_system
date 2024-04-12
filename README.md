@@ -39,7 +39,7 @@ GRANT ALL ON SCHEMA public TO zvinoreva;
 \c zvinoreva_bus_reservation zvinoreva
 ```
 
-7. Test the permissions by create a temporary table
+7. Test the permissions by creating a temporary table
 
 ```sql
 CREATE TABLE tmp (id SERIAL PRIMARY KEY);
@@ -121,8 +121,8 @@ psql -U zvinoreva zvinoreva_bus_reservation
 
 - Copy the SQL code in `migrations/0001_insert_locations.sql` and paste into the terminal to insert locations into the `locations` table.
 - Copy the SQL code in `migrations/0002_insert_routes.sql` and paste into the terminal to insert routes into the `routes` table.
-- Copy the SQL code in `migrations/0001_insert_trips.sql` and paste into the terminal to insert trips into the `trips` table.
-- Copy the SQL code in `migrations/0001_insert_roles.sql` and paste into the terminal to insert roles into the `roles` table.
+- Copy the SQL code in `migrations/0003_insert_trips.sql` and paste into the terminal to insert trips into the `trips` table.
+- Copy the SQL code in `migrations/0004_insert_roles.sql` and paste into the terminal to insert roles into the `roles` table.
 
 8. Exit the `psql` with `\q`
 
