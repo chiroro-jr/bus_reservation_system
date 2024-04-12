@@ -96,13 +96,15 @@ git clone https://github.com/chiroro-jr/bus_reservation_system.git
 npm install
 ```
 
-5. Run the migrations to set up the database
+5. Create a `.env` file in the root of the project (i.e. at the same level as all the other dotfiles such as `.gitignore` or `.npmrc`) and paste this PostgreSQL connection string: `DATABASE_URL = postgres://zvinoreva:zvinoreva@localhost:5432/zvinoreva_bus_reservation`
+
+6. Run the migrations to set up the database
 
 ```bash
 npm run migrate
 ```
 
-6. Inserting data into the database
+7. Inserting data into the database
 
 - Connect to the database
 
