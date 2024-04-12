@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712890290828,
+      "tag": "0000_stiff_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712890646995,
+      "tag": "0001_quick_tana_nile",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712891049772,
+      "tag": "0002_warm_junta",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1712891584156,
+      "tag": "0003_nostalgic_polaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1712891690228,
+      "tag": "0004_wild_wolf_cub",
+      "breakpoints": true
+    }
+  ]
+}
