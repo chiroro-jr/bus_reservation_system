@@ -89,8 +89,8 @@ v21.7.2
 git clone https://github.com/chiroro-jr/bus_reservation_system.git
 ```
 
-3. Open the directory in VS Code
-4. Open the terminal and install dependencies with
+3. Open the `bus_reservation_system/` directory in VS Code
+4. Open the terminal in VSCode and install dependencies with
 
 ```bash
 npm install
